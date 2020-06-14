@@ -7,11 +7,7 @@ Tengo muchas metas
 Desde hoy practirare mucho git
 
 Actualmente vivo en mixco 
-<<<<<<< HEAD
-Antes aaque termine el 2020 espero cambiarme de trabajo
-=======
 Antes que termine el 2020 espero cambiarme de trabajo
->>>>>>> fdffca8ad629e39ec0d3c8f5a6d2238a119ab00a
 Quiero estudiar en canada el 2022
 
 No se que paso pero hay un merching que no se puede canecelar
